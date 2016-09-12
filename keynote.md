@@ -87,7 +87,7 @@ OpenWrt 可以被描述为一个嵌入式的 Linux 发行版，（主流路由�
 OpenWrt 选择了另一条路，它从零开始，一点一点的把各软件加入进去，使其接近 Linksys 版 Firmware的功能，而OpenWrt 的成功之处是它的文件系统是可写的，开发者无需在每一次修改后重新编译，令它更像一个小型的 Linux 电脑系统。
 
 
-附：Markdown 图床 WRTnode
+附：Markdown 图床
 
 
 
