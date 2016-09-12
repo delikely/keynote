@@ -65,6 +65,11 @@ DNSmasq是一个小巧且方便地用于配置DNS和DHCP的工具，适用于小
 
 域名相似的钓鱼网站==野鸡大学 
 
+### WIFI钓鱼
+![wifiphisher](https://camo.githubusercontent.com/2516ec0b94ffad5f83ab316d576e03bc5dd68fd0/68747470733a2f2f736f7068726f6e2e6769746875622e696f2f77696669706869736865722f77696669706869736865722e706e67)
+
+[Wifiphisher](https://github.com/sophron/wifiphisher)
+
 
 ## 4. captive portal 技术
 captive portal，就是强制主页。校园网里面的验证通常都是通过一个网页验证来完成，不管你点要访问哪一个网站，它都会强制给你转到我们设置的主页。
@@ -87,7 +92,9 @@ OpenWrt 可以被描述为一个嵌入式的 Linux 发行版，（主流路由�
 OpenWrt 选择了另一条路，它从零开始，一点一点的把各软件加入进去，使其接近 Linksys 版 Firmware的功能，而OpenWrt 的成功之处是它的文件系统是可写的，开发者无需在每一次修改后重新编译，令它更像一个小型的 Linux 电脑系统。
 
 
-附：Markdown 图床 Github
+防御： hikvision（意识） shodan（工具）  NOKIA（硬件） 
+
+附：Markdown 图床 Github 
 
 
 
