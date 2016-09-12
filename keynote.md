@@ -23,7 +23,7 @@
 </br>
 <font color=red >怎么操作?</font> 
 </br>
-*  ** 修改hosts后生效的方法： **
+* 修改hosts后生效的方法：
 
 Windows
 开始 -> 运行 -> 输入cmd -> 在CMD窗口输入
@@ -85,6 +85,9 @@ OpenWrt 可以被描述为一个嵌入式的 Linux 发行版，（主流路由�
 当Linksys释放 WRT54G/GS 的源码后。当Linksys释放 WRT54G/GS 的源码后，网上出现了很多不同版本的 Firmware 去增强原有的功能。大多数的 Firmware 都是99%使用 Linksys的源码，只有1%是加上去的，每一种 Firmware 都是针对特定的市场而设计，这样做有2个缺点，第一个是难以集合各版本Firmware的长处，第二个是这版本距离 Linux 正式发行版越来越远。
 
 OpenWrt 选择了另一条路，它从零开始，一点一点的把各软件加入进去，使其接近 Linksys 版 Firmware的功能，而OpenWrt 的成功之处是它的文件系统是可写的，开发者无需在每一次修改后重新编译，令它更像一个小型的 Linux 电脑系统。
+
+
+附：Markdown 图床 WRTnode
 
 
 
