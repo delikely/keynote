@@ -17,4 +17,6 @@ Next Vertical Slide&Fragment Slides
 - Go         <!-- .element: class="fragment" -->
 - Scala      <!-- .element: class="fragment" -->
 
----?gist=cf4227416b55dac54a53
+---
+gist slide
+?gist=cf4227416b55dac54a53
