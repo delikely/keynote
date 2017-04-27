@@ -1,7 +1,7 @@
 # GitPitch
 
 ---
-Next Horizontal Slide
+Next Horizontal Slide&Code highlight
 ```scala
 object HelloWorld {
   def main(args: Array[String]): Unit = {
