@@ -1,6 +1,6 @@
 # GitPitch
 
---
+---
 
 Next Horizontal Slide&Code highlight
 
@@ -12,6 +12,6 @@ object HelloWorld {
 }
 ```
 
-++
++++
 
 Next Vertical Slide
