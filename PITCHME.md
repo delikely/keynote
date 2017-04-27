@@ -1,8 +1,8 @@
 # GitPitch
 
 ---
-# Next Horizontal Slide
+Next Horizontal Slide
 
 +++
 
-# Next Vertical Slide
+Next Vertical Slide
