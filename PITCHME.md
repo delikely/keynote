@@ -1,6 +1,6 @@
 # GitPitch
 ---
-Next Horizontal Slide&Code highlight
+Next Horizontal Slide&Code highlight Slide
 
 ```scala
 object HelloWorld {
@@ -10,4 +10,9 @@ object HelloWorld {
 }
 ```
 +++
-Next Vertical Slide
+Next Vertical Slide&Fragment Slides
+- Java
+- JavaScript <!-- .element: class="fragment" -->
+- Kotlin     <!-- .element: class="fragment" -->
+- Go         <!-- .element: class="fragment" -->
+- Scala      <!-- .element: class="fragment" -->
