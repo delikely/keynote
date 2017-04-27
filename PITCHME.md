@@ -1,6 +1,7 @@
 # GitPitch
 
 --
+
 Next Horizontal Slide&Code highlight
 
 ```scala
@@ -10,6 +11,7 @@ object HelloWorld {
   }
 }
 ```
+
 ++
 
 Next Vertical Slide
