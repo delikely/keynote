@@ -10,11 +10,8 @@ object HelloWorld {
   }
 }
 ```
----
+---?gist=cf4227416b55dac54a53
 gist slide
-
-?gist=cf4227416b55dac54a53
-
 ---
 Image Slides
 
@@ -62,4 +59,6 @@ Chart Slides
 }
 -->
 </canvas>
----
+
++++
+![More](https://gitpitch.com/gitpitch/kitchen-sink/master)
