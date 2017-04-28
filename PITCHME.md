@@ -1,7 +1,7 @@
 # GitPitch
 [Source](https://github.com/delikely/keynote/edit/master/PITCHME.md)
 ---
-Next Horizontal Slide&Code highlight Slide
+Code Slides
 
 ```scala
 object HelloWorld {
@@ -10,17 +10,15 @@ object HelloWorld {
   }
 }
 ```
-- Java
-- JavaScript
-- Kotlin
-
-+++
-Next Vertical Slide&Fragment Slides
+---
+Fragment Slides
 - Java
 - JavaScript <!-- .element: class="fragment" -->
 - Kotlin     <!-- .element: class="fragment" -->
 - Go         <!-- .element: class="fragment" -->
 - Scala      <!-- .element: class="fragment" -->
 
+```
 ---?gist=cf4227416b55dac54a53
 gist slide
+```
