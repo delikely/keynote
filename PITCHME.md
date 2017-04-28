@@ -1,5 +1,5 @@
 # GitPitch
-[link](https://github.com/delikely/keynote/edit/master/PITCHME.md)
+[Source](https://github.com/delikely/keynote/edit/master/PITCHME.md)
 ---
 Next Horizontal Slide&Code highlight Slide
 
