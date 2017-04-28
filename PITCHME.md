@@ -36,4 +36,5 @@ Fragment Slides
 - Go         <!-- .element: class="fragment" -->
 - Scala      <!-- .element: class="fragment" -->
 ---
-[More](https://gitpitch.com/gitpitch/kitchen-sink/master)
+[More1](https://gitpitch.com/gitpitch/kitchen-sink/master)
+[More2](https://github.com/gitpitch/feature-demo)
