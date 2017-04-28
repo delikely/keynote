@@ -1,5 +1,5 @@
 # GitPitch
-[Source](https://github.com/delikely/keynote/edit/master/PITCHME.md)
+[link](https://github.com/delikely/keynote/edit/master/PITCHME.md)
 ---
 Next Horizontal Slide&Code highlight Slide
 
@@ -10,6 +10,9 @@ object HelloWorld {
   }
 }
 ```
+- Java
+- JavaScript
+- Kotlin
 
 +++
 Next Vertical Slide&Fragment Slides
